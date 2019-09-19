@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorTextButton">#1a13ea</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_border">#ffafed44</color>
+    <color name="activity_text_title_color">#FFFFFF</color>
+    <color name="application_background_default">#292929</color>
+    <color name="tranparent">#00000000</color>
+    <color name="touch_slight_up">#000000</color>
+    <color name="touch_slight_down">#00FFFF</color>
+    <color name="darkGrey">#ffff0000</color>
+</resources>
